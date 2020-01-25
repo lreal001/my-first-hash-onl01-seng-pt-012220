@@ -55,4 +55,4 @@ shipping_manifest["muskets"]
 shipping_manifest["gun powder"] = 4
 shipping_manifest["gun powder"]
 
-shipping_manifest
+puts shipping_manifest
